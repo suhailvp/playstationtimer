@@ -1,0 +1,1216 @@
+- 15:52:49.219 INFO: --------------------------------------------------------
+- 15:52:49.219 INFO: Started application
+- 15:52:49.219 INFO: Logging to: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 15:52:49.219 INFO: Log level = DEBUG4
+- 15:52:49.219 INFO: Starting Mongoose 3.9c web server
+- 15:52:49.219 INFO: WWW directory: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 15:52:49.219 INFO: Index files: index.html,index.php
+- 15:52:49.219 INFO: CGI interpreter: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 15:52:49.219 INFO: CGI pattern: **.php$
+- 15:52:49.219 INFO: Hide files patterns: 
+- 15:52:49.219 INFO: CGI environment variables set: TMP=C:\Users\Foplus\AppData\Local\Temp\,TEMP=C:\Users\Foplus\AppData\Local\Temp\,TMPDIR=C:\Users\Foplus\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 15:52:49.234 INFO: Web server url: http://127.0.0.1:52500/
+- 15:52:49.234 INFO: remote_debugging_port = 52135
+- 15:52:49.234 DEBUG: Command line string for the browser process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=52135
+- 15:52:49.421 DEBUG: App::OnContextInitialized()
+- 15:52:49.421 DEBUG: Window max width/height = 1200/712
+- 15:52:49.421 DEBUG: GetBrowserWindow(): not found, hwnd = 2556682
+- 15:52:49.453 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 15:52:49.453 DEBUG: BrowserWindow::CreateBrowserControl()
+- 15:52:49.453 DEBUG: StoreBrowserWindow(): hwnd = 2556682
+- 15:52:49.546 DEBUG: ClientHandler::OnAfterCreated()
+- 15:52:49.546 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 15:52:50.577 DEBUG: OnLoadingStateChange: loading=1, url=
+- 15:52:50.016 DEBUG: Command line string for the gpu-process process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="5232.0.509875274\2070132617" --no-sandbox --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x27a2 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1930 --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 15:52:50.000 DEBUG: Command line string for the renderer process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="5232.1.811977658\1276898567" /prefetch:673131151
+- 15:52:50.125 DEBUG: OnBrowserCreated()
+[1014/155250:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[1014/155250:ERROR:gl_surface_egl.cc(434)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[1014/155250:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[1014/155250:ERROR:gl_surface_egl.cc(434)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[1014/155250:ERROR:gl_surface_win.cc(170)] GLSurfaceEGL::InitializeOneOff failed.
+[1014/155250:ERROR:gpu_child_thread.cc(243)] Exiting GPU process due to errors during initialization
+[1014/155250:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
+- 15:52:54.727 INFO: GET 200 /
+- 15:52:54.821 INFO: GET 200 /css/font-awesome.min.css
+- 15:52:54.821 INFO: GET 200 /style.css
+- 15:52:54.087 DEBUG: OnContextCreated()
+- 15:52:54.055 INFO: GET 200 /css/jquery-3.2.1.js
+- 15:52:54.211 INFO: GET 200 /do.ttf
+- 15:52:54.242 INFO: GET 200 /fonts/fontawesome-webfont.woff2?v=4.7.0
+- 15:52:55.835 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52500/
+- 15:52:56.958 INFO: GET 200 /time.php
+- 15:52:56.036 INFO: GET 200 /digital-7.ttf
+- 15:52:58.986 INFO: GET 200 /time.php
+- 15:52:58.329 INFO: GET 200 /time.php
+- 15:53:00.827 INFO: GET 200 /time.php
+- 15:53:00.045 INFO: GET 200 /time.php
+- 15:53:01.919 INFO: GET 200 /time.php
+- 15:53:02.463 INFO: GET 200 /time.php
+- 15:53:03.916 INFO: GET 200 /time.php
+- 15:53:04.930 INFO: GET 200 /time.php
+- 15:53:05.912 INFO: GET 200 /time.php
+- 15:53:06.864 INFO: GET 200 /time.php
+- 15:53:07.862 INFO: GET 200 /time.php
+- 15:53:08.861 INFO: GET 200 /time.php
+- 15:53:09.875 INFO: GET 200 /time.php
+- 15:53:10.764 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52500/
+- 15:53:10.904 INFO: GET 200 /time.php
+- 15:53:11.575 INFO: GET 302 /valstr0.php?
+- 15:53:11.935 DEBUG: OnContextCreated()
+- 15:53:11.684 INFO: GET 200 /index.php
+- 15:53:11.794 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52500/index.php
+- 15:53:12.917 INFO: GET 200 /time.php
+- 15:53:13.744 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52500/index.php
+- 15:53:13.009 INFO: GET 200 /time.php
+- 15:53:13.180 INFO: GET 302 /valstp0.php?
+- 15:53:13.305 INFO: GET 200 /index.php
+- 15:53:13.556 DEBUG: OnContextCreated()
+- 15:53:13.414 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52500/index.php
+- 15:53:14.538 INFO: GET 200 /time.php
+- 15:53:15.881 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52500/index.php
+- 15:53:15.162 INFO: GET 200 /dlt0.php?
+- 15:53:15.428 DEBUG: OnContextCreated()
+- 15:53:15.208 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52500/dlt0.php?
+- 15:53:19.000 DEBUG: Command line string for the utility process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=utility --channel="5232.2.1167777619\188449662" --lang=en-US --no-sandbox --no-sandbox --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:-645351001
+- 15:56:26.826 DEBUG: WM_DESTROY
+- 15:56:26.826 DEBUG: RemoveBrowserWindow(): hwnd = 2556682
+- 15:56:26.826 INFO: Stopping Mongoose web server
+- 15:56:26.826 DEBUG: Mongoose webserver stopped immediately
+- 15:56:26.842 DEBUG: OnBeforeClose() hwnd=328694
+- 15:56:26.842 DEBUG: RemoveBrowserWindow(): hwnd = 328694
+- 15:56:26.842 DEBUG: GetBrowserWindow(): not found, hwnd = 328694
+- 15:56:26.842 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 15:56:26.842 DEBUG: Calling CefQuitMessageLoop()
+- 15:56:26.294 INFO: Ended application
+- 15:56:26.294 INFO: --------------------------------------------------------
+- 16:02:39.000 INFO: --------------------------------------------------------
+- 16:02:39.000 INFO: Started application
+- 16:02:39.000 INFO: Logging to: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 16:02:39.000 INFO: Log level = DEBUG4
+- 16:02:39.000 INFO: Starting Mongoose 3.9c web server
+- 16:02:39.000 INFO: WWW directory: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 16:02:39.000 INFO: Index files: index.html,index.php
+- 16:02:39.016 INFO: CGI interpreter: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 16:02:39.016 INFO: CGI pattern: **.php$
+- 16:02:39.016 INFO: Hide files patterns: 
+- 16:02:39.016 INFO: CGI environment variables set: TMP=C:\Users\Foplus\AppData\Local\Temp\,TEMP=C:\Users\Foplus\AppData\Local\Temp\,TMPDIR=C:\Users\Foplus\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:02:39.016 INFO: Web server url: http://127.0.0.1:52565/
+- 16:02:39.016 INFO: remote_debugging_port = 57148
+- 16:02:39.016 DEBUG: Command line string for the browser process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=57148
+- 16:02:39.125 DEBUG: App::OnContextInitialized()
+- 16:02:39.125 DEBUG: Window max width/height = 1200/712
+- 16:02:39.125 DEBUG: GetBrowserWindow(): not found, hwnd = 459766
+- 16:02:39.125 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:02:39.125 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:02:39.125 DEBUG: StoreBrowserWindow(): hwnd = 459766
+- 16:02:39.203 DEBUG: ClientHandler::OnAfterCreated()
+- 16:02:39.203 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:02:39.250 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:02:39.000 DEBUG: Command line string for the renderer process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="4972.1.430103335\1668410494" /prefetch:673131151
+- 16:02:39.015 DEBUG: Command line string for the gpu-process process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="4972.0.2119418885\164232621" --no-sandbox --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x27a2 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1930 --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 16:02:39.078 DEBUG: OnBrowserCreated()
+[1014/160239:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[1014/160239:ERROR:gl_surface_egl.cc(434)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[1014/160239:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[1014/160239:ERROR:gl_surface_egl.cc(434)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[1014/160239:ERROR:gl_surface_win.cc(170)] GLSurfaceEGL::InitializeOneOff failed.
+[1014/160239:ERROR:gpu_child_thread.cc(243)] Exiting GPU process due to errors during initialization
+[1014/160239:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
+- 16:02:40.702 INFO: GET 200 /style.css
+- 16:02:40.718 INFO: GET 200 /css/font-awesome.min.css
+- 16:02:40.734 INFO: GET 200 /css/jquery-3.2.1.js
+- 16:02:40.390 DEBUG: OnContextCreated()
+- 16:02:40.749 INFO: GET 200 /
+- 16:02:40.905 INFO: GET 200 /fonts/fontawesome-webfont.woff2?v=4.7.0
+- 16:02:40.905 INFO: GET 200 /do.ttf
+- 16:02:40.999 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52565/
+- 16:02:41.184 INFO: GET 200 /time.php
+- 16:02:41.231 INFO: GET 200 /digital-7.ttf
+- 16:02:42.089 INFO: GET 200 /time.php
+- 16:02:43.088 INFO: GET 200 /time.php
+- 16:02:43.228 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52565/
+- 16:02:43.462 INFO: GET 302 /valstr0.php?
+- 16:02:44.290 DEBUG: OnContextCreated()
+- 16:02:44.634 INFO: GET 200 /index.php
+- 16:02:44.743 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52565/index.php
+- 16:02:45.788 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52565/index.php
+- 16:02:45.116 INFO: GET 200 /time.php
+- 16:02:46.927 INFO: GET 200 /time.php
+- 16:02:47.910 INFO: GET 200 /time.php
+- 16:02:48.877 INFO: GET 200 /time.php
+- 16:02:49.657 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:52565/valstp0.php?
+- 16:02:49.657 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52565/index.php
+- 16:02:49.657 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52565/index.php
+- 16:02:49.906 INFO: GET 200 /time.php
+- 16:02:50.905 INFO: GET 200 /time.php
+- 16:02:51.919 INFO: GET 200 /time.php
+- 16:02:52.917 INFO: GET 200 /time.php
+- 16:02:52.292 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:52565/valstp0.php?
+- 16:02:52.292 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52565/index.php
+- 16:02:52.307 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52565/index.php
+- 16:02:53.916 INFO: GET 200 /time.php
+- 16:02:54.898 INFO: GET 200 /time.php
+- 16:02:55.881 INFO: GET 200 /time.php
+- 16:02:56.911 INFO: GET 200 /time.php
+- 16:02:57.878 INFO: GET 200 /time.php
+- 16:02:58.892 INFO: GET 200 /time.php
+- 16:02:59.875 INFO: GET 200 /time.php
+- 16:02:59.140 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:52565/valstp1.php?
+- 16:02:59.156 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52565/index.php
+- 16:02:59.156 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52565/index.php
+- 16:03:00.889 INFO: GET 200 /time.php
+- 16:03:01.903 INFO: GET 200 /time.php
+- 16:03:02.574 DEBUG: WM_DESTROY
+- 16:03:02.574 DEBUG: RemoveBrowserWindow(): hwnd = 459766
+- 16:03:02.574 INFO: Stopping Mongoose web server
+- 16:03:02.574 DEBUG: Mongoose webserver stopped immediately
+- 16:03:02.574 DEBUG: OnBeforeClose() hwnd=852810
+- 16:03:02.574 DEBUG: RemoveBrowserWindow(): hwnd = 852810
+- 16:03:02.574 DEBUG: GetBrowserWindow(): not found, hwnd = 852810
+- 16:03:02.589 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:03:02.589 DEBUG: Calling CefQuitMessageLoop()
+[1014/160302:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+- 16:03:02.652 INFO: Ended application
+- 16:03:02.652 INFO: --------------------------------------------------------
+- 16:03:57.000 INFO: --------------------------------------------------------
+- 16:03:57.000 INFO: Started application
+- 16:03:57.000 INFO: Logging to: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 16:03:57.000 INFO: Log level = DEBUG4
+- 16:03:57.000 INFO: Starting Mongoose 3.9c web server
+- 16:03:57.000 INFO: WWW directory: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 16:03:57.000 INFO: Index files: index.html,index.php
+- 16:03:57.000 INFO: CGI interpreter: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 16:03:57.000 INFO: CGI pattern: **.php$
+- 16:03:57.000 INFO: Hide files patterns: 
+- 16:03:57.000 INFO: CGI environment variables set: TMP=C:\Users\Foplus\AppData\Local\Temp\,TEMP=C:\Users\Foplus\AppData\Local\Temp\,TMPDIR=C:\Users\Foplus\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:03:57.016 INFO: Web server url: http://127.0.0.1:52615/
+- 16:03:57.016 INFO: remote_debugging_port = 58986
+- 16:03:57.016 DEBUG: Command line string for the browser process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=58986
+- 16:03:57.110 DEBUG: App::OnContextInitialized()
+- 16:03:57.110 DEBUG: Window max width/height = 1200/712
+- 16:03:57.110 DEBUG: GetBrowserWindow(): not found, hwnd = 2688370
+- 16:03:57.110 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:03:57.110 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:03:57.110 DEBUG: StoreBrowserWindow(): hwnd = 2688370
+- 16:03:57.188 DEBUG: ClientHandler::OnAfterCreated()
+- 16:03:57.188 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:03:57.203 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:03:57.000 DEBUG: Command line string for the gpu-process process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="5380.0.2102156688\32412281" --no-sandbox --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x27a2 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1930 --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 16:03:57.000 DEBUG: Command line string for the renderer process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="5380.1.275938808\163305686" /prefetch:673131151
+[1014/160357:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[1014/160357:ERROR:gl_surface_egl.cc(434)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+- 16:03:57.062 DEBUG: OnBrowserCreated()
+[1014/160357:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[1014/160357:ERROR:gl_surface_egl.cc(434)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[1014/160357:ERROR:gl_surface_win.cc(170)] GLSurfaceEGL::InitializeOneOff failed.
+[1014/160358:ERROR:gpu_child_thread.cc(243)] Exiting GPU process due to errors during initialization
+[1014/160358:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
+- 16:03:58.609 INFO: GET 200 /css/font-awesome.min.css
+- 16:03:58.624 INFO: GET 200 /css/jquery-3.2.1.js
+- 16:03:58.343 DEBUG: OnContextCreated()
+- 16:03:58.640 INFO: GET 200 /
+- 16:03:58.718 INFO: GET 200 /style.css
+- 16:03:58.796 INFO: GET 200 /fonts/fontawesome-webfont.woff2?v=4.7.0
+- 16:03:58.796 INFO: GET 200 /do.ttf
+- 16:03:58.905 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52615/
+- 16:03:59.013 INFO: GET 200 /time.php
+- 16:03:59.044 INFO: GET 200 /digital-7.ttf
+- 16:04:00.996 INFO: GET 200 /time.php
+- 16:04:01.604 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52615/
+- 16:04:01.010 INFO: GET 200 /time.php
+- 16:04:01.056 INFO: GET 302 /dlt0.php?
+- 16:04:02.400 INFO: GET 200 /index.php
+- 16:04:02.103 DEBUG: OnContextCreated()
+- 16:04:02.509 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52615/index.php
+- 16:04:03.648 INFO: GET 200 /time.php
+- 16:04:04.584 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52615/index.php
+- 16:04:04.693 INFO: GET 200 /time.php
+- 16:04:04.927 INFO: GET 302 /dlt1.php?
+- 16:04:04.833 DEBUG: OnContextCreated()
+- 16:04:04.145 INFO: GET 200 /index.php
+- 16:04:04.223 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52615/index.php
+- 16:04:06.393 INFO: GET 200 /time.php
+- 16:04:07.376 INFO: GET 200 /time.php
+- 16:04:08.390 INFO: GET 200 /time.php
+- 16:04:09.388 INFO: GET 200 /time.php
+- 16:04:10.371 INFO: GET 200 /time.php
+- 16:04:11.385 INFO: GET 200 /time.php
+- 16:04:12.399 INFO: GET 200 /time.php
+- 16:04:13.398 INFO: GET 200 /time.php
+- 16:04:14.380 INFO: GET 200 /time.php
+- 16:04:14.646 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52615/index.php
+- 16:04:14.911 INFO: GET 302 /valstr0.php?
+- 16:04:14.770 DEBUG: OnContextCreated()
+- 16:04:14.067 INFO: GET 200 /index.php
+- 16:04:14.129 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52615/index.php
+- 16:04:15.284 INFO: GET 200 /time.php
+- 16:04:16.658 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52615/index.php
+- 16:04:16.908 INFO: GET 302 /dlt0.php?
+- 16:04:16.079 INFO: GET 200 /index.php
+- 16:04:16.782 DEBUG: OnContextCreated()
+- 16:04:16.126 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52615/index.php
+- 16:04:17.265 INFO: GET 200 /time.php
+- 16:04:18.279 INFO: GET 200 /time.php
+- 16:04:19.277 INFO: GET 200 /time.php
+- 16:04:21.385 INFO: GET 200 /time.php
+- 16:04:22.241 INFO: GET 200 /time.php
+- 16:04:23.240 INFO: GET 200 /time.php
+- 16:04:24.222 INFO: GET 200 /time.php
+- 16:04:25.236 INFO: GET 200 /time.php
+- 16:04:26.328 INFO: GET 200 /time.php
+- 16:04:27.280 INFO: GET 200 /time.php
+- 16:04:28.247 INFO: GET 200 /time.php
+- 16:04:30.979 INFO: GET 200 /time.php
+- 16:04:30.197 INFO: GET 200 /time.php
+- 16:04:31.211 INFO: GET 200 /time.php
+- 16:04:32.225 INFO: GET 200 /time.php
+- 16:04:33.193 INFO: GET 200 /time.php
+- 16:04:34.191 INFO: GET 200 /time.php
+- 16:04:35.252 INFO: GET 200 /time.php
+- 16:04:36.235 INFO: GET 200 /time.php
+- 16:04:37.264 INFO: GET 200 /time.php
+- 16:04:38.278 INFO: GET 200 /time.php
+- 16:04:39.512 INFO: GET 200 /time.php
+- 16:04:41.369 INFO: GET 200 /time.php
+- 16:04:41.242 INFO: GET 200 /time.php
+- 16:04:43.412 INFO: GET 200 /time.php
+- 16:04:43.286 INFO: GET 200 /time.php
+- 16:04:45.518 INFO: GET 200 /time.php
+- 16:04:45.283 INFO: GET 200 /time.php
+- 16:04:46.250 INFO: GET 200 /time.php
+- 16:04:47.248 INFO: GET 200 /time.php
+- 16:04:49.403 INFO: GET 200 /time.php
+- 16:04:49.276 INFO: GET 200 /time.php
+- 16:04:50.275 INFO: GET 200 /time.php
+- 16:04:51.431 INFO: GET 200 /time.php
+- 16:04:51.304 INFO: GET 200 /time.php
+- 16:04:52.523 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52615/index.php
+- 16:04:52.835 INFO: GET 302 /valstr0.php?
+- 16:04:52.709 DEBUG: OnContextCreated()
+- 16:04:52.022 INFO: GET 200 /index.php
+- 16:04:52.053 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52615/index.php
+- 16:04:53.207 INFO: GET 200 /time.php
+- 16:04:54.190 INFO: GET 200 /time.php
+- 16:04:55.189 INFO: GET 200 /time.php
+- 16:04:56.187 INFO: GET 200 /time.php
+- 16:04:57.217 INFO: GET 200 /time.php
+- 16:04:58.231 INFO: GET 200 /time.php
+- 16:04:59.229 INFO: GET 200 /time.php
+- 16:05:00.728 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52615/index.php
+- 16:05:00.056 INFO: GET 302 /valstp0.php?
+- 16:05:00.274 INFO: GET 200 /time.php
+- 16:05:00.040 DEBUG: OnContextCreated()
+- 16:05:00.337 INFO: GET 200 /index.php
+- 16:05:01.384 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52615/index.php
+- 16:05:02.554 INFO: GET 200 /time.php
+- 16:05:03.552 INFO: GET 200 /time.php
+- 16:05:04.550 INFO: GET 200 /time.php
+- 16:05:05.596 INFO: GET 200 /time.php
+- 16:05:06.547 INFO: GET 200 /time.php
+- 16:05:07.608 INFO: GET 200 /time.php
+- 16:05:08.544 INFO: GET 200 /time.php
+- 16:05:09.558 INFO: GET 200 /time.php
+- 16:05:09.667 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52615/index.php
+- 16:05:09.901 INFO: GET 302 /dlt0.php?
+- 16:05:09.807 DEBUG: OnContextCreated()
+- 16:05:09.120 INFO: GET 200 /index.php
+- 16:05:09.151 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52615/index.php
+- 16:05:10.321 INFO: GET 200 /time.php
+- 16:05:12.366 INFO: GET 200 /time.php
+- 16:05:13.207 INFO: GET 200 /time.php
+- 16:05:14.190 INFO: GET 200 /time.php
+- 16:05:15.204 INFO: GET 200 /time.php
+- 16:05:16.186 INFO: GET 200 /time.php
+- 16:05:17.200 INFO: GET 200 /time.php
+- 16:05:18.214 INFO: GET 200 /time.php
+- 16:05:19.197 INFO: GET 200 /time.php
+- 16:05:20.227 INFO: GET 200 /time.php
+- 16:05:21.210 INFO: GET 200 /time.php
+- 16:05:22.224 INFO: GET 200 /time.php
+- 16:05:23.253 INFO: GET 200 /time.php
+- 16:05:24.220 INFO: GET 200 /time.php
+- 16:05:26.468 INFO: GET 200 /time.php
+- 16:05:28.824 INFO: GET 200 /time.php
+- 16:05:28.261 INFO: GET 200 /time.php
+- 16:05:29.212 INFO: GET 200 /time.php
+- 16:05:30.227 INFO: GET 200 /time.php
+- 16:05:31.209 INFO: GET 200 /time.php
+- 16:05:32.223 INFO: GET 200 /time.php
+- 16:05:33.206 INFO: GET 200 /time.php
+- 16:05:34.220 INFO: GET 200 /time.php
+- 16:05:35.234 INFO: GET 200 /time.php
+- 16:05:36.233 INFO: GET 200 /time.php
+- 16:05:37.262 INFO: GET 200 /time.php
+- 16:05:38.214 INFO: GET 200 /time.php
+- 16:05:39.228 INFO: GET 200 /time.php
+- 16:05:40.226 INFO: GET 200 /time.php
+- 16:05:41.240 INFO: GET 200 /time.php
+- 16:05:42.239 INFO: GET 200 /time.php
+- 16:05:43.221 INFO: GET 200 /time.php
+- 16:05:44.235 INFO: GET 200 /time.php
+- 16:05:45.234 INFO: GET 200 /time.php
+- 16:05:46.217 INFO: GET 200 /time.php
+- 16:05:47.215 INFO: GET 200 /time.php
+- 16:05:48.198 INFO: GET 200 /time.php
+- 16:05:49.243 INFO: GET 200 /time.php
+- 16:05:51.444 INFO: GET 200 /time.php
+- 16:05:51.271 INFO: GET 200 /time.php
+- 16:05:52.285 INFO: GET 200 /time.php
+- 16:05:53.268 INFO: GET 200 /time.php
+- 16:05:54.251 INFO: GET 200 /time.php
+- 16:05:55.265 INFO: GET 200 /time.php
+- 16:05:56.263 INFO: GET 200 /time.php
+- 16:05:57.277 INFO: GET 200 /time.php
+- 16:05:59.572 INFO: GET 200 /time.php
+- 16:05:59.274 INFO: GET 200 /time.php
+- 16:06:00.288 INFO: GET 200 /time.php
+- 16:06:01.286 INFO: GET 200 /time.php
+- 16:06:02.285 INFO: GET 200 /time.php
+- 16:06:03.314 INFO: GET 200 /time.php
+- 16:06:05.765 INFO: GET 200 /time.php
+- 16:06:05.249 INFO: GET 200 /time.php
+- 16:06:07.653 INFO: GET 200 /time.php
+- 16:06:07.230 INFO: GET 200 /time.php
+- 16:06:08.244 INFO: GET 200 /time.php
+- 16:06:09.242 INFO: GET 200 /time.php
+- 16:06:10.241 INFO: GET 200 /time.php
+- 16:06:11.239 INFO: GET 200 /time.php
+- 16:06:12.238 INFO: GET 200 /time.php
+- 16:06:13.252 INFO: GET 200 /time.php
+- 16:06:14.234 INFO: GET 200 /time.php
+- 16:06:15.248 INFO: GET 200 /time.php
+- 16:06:16.216 INFO: GET 200 /time.php
+- 16:06:17.214 INFO: GET 200 /time.php
+- 16:06:18.212 INFO: GET 200 /time.php
+- 16:06:19.195 INFO: GET 200 /time.php
+- 16:06:20.350 INFO: GET 200 /time.php
+- 16:06:21.208 INFO: GET 200 /time.php
+- 16:06:22.206 INFO: GET 200 /time.php
+- 16:06:23.580 INFO: GET 200 /time.php
+- 16:06:23.298 INFO: GET 200 /time.php
+- 16:06:24.828 DEBUG: WM_DESTROY
+- 16:06:24.828 DEBUG: RemoveBrowserWindow(): hwnd = 2688370
+- 16:06:24.828 INFO: Stopping Mongoose web server
+- 16:06:24.828 DEBUG: Mongoose webserver stopped immediately
+- 16:06:24.828 DEBUG: OnBeforeClose() hwnd=1246244
+- 16:06:24.828 DEBUG: RemoveBrowserWindow(): hwnd = 1246244
+- 16:06:24.828 DEBUG: GetBrowserWindow(): not found, hwnd = 1246244
+- 16:06:24.828 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:06:24.828 DEBUG: Calling CefQuitMessageLoop()
+- 16:06:24.891 INFO: Ended application
+- 16:06:24.891 INFO: --------------------------------------------------------
+- 16:08:09.000 INFO: --------------------------------------------------------
+- 16:08:09.000 INFO: Started application
+- 16:08:09.000 INFO: Logging to: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 16:08:09.000 INFO: Log level = DEBUG4
+- 16:08:09.000 INFO: Starting Mongoose 3.9c web server
+- 16:08:09.000 INFO: WWW directory: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 16:08:09.000 INFO: Index files: index.html,index.php
+- 16:08:09.000 INFO: CGI interpreter: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 16:08:09.000 INFO: CGI pattern: **.php$
+- 16:08:09.000 INFO: Hide files patterns: 
+- 16:08:09.000 INFO: CGI environment variables set: TMP=C:\Users\Foplus\AppData\Local\Temp\,TEMP=C:\Users\Foplus\AppData\Local\Temp\,TMPDIR=C:\Users\Foplus\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:08:09.031 INFO: Web server url: http://127.0.0.1:52856/
+- 16:08:09.031 INFO: remote_debugging_port = 61771
+- 16:08:09.031 DEBUG: Command line string for the browser process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=61771
+- 16:08:09.125 DEBUG: App::OnContextInitialized()
+- 16:08:09.125 DEBUG: Window max width/height = 1200/712
+- 16:08:09.125 DEBUG: GetBrowserWindow(): not found, hwnd = 459670
+- 16:08:09.125 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:08:09.125 WARNING: Setting icon from settings file failed (ICON_BIG)
+- 16:08:09.125 WARNING: Setting icon from settings file failed (ICON_SMALL)
+- 16:08:09.125 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:08:09.125 DEBUG: StoreBrowserWindow(): hwnd = 459670
+- 16:08:09.249 DEBUG: ClientHandler::OnAfterCreated()
+- 16:08:09.249 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:08:09.265 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:08:10.016 DEBUG: Command line string for the gpu-process process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="4140.0.2136665445\1564295287" --no-sandbox --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x27a2 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1930 --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 16:08:10.000 DEBUG: Command line string for the renderer process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="4140.1.1725833438\340768291" /prefetch:673131151
+[1014/160810:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[1014/160810:ERROR:gl_surface_egl.cc(434)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[1014/160810:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[1014/160810:ERROR:gl_surface_egl.cc(434)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[1014/160810:ERROR:gl_surface_win.cc(170)] GLSurfaceEGL::InitializeOneOff failed.
+[1014/160810:ERROR:gpu_child_thread.cc(243)] Exiting GPU process due to errors during initialization
+[1014/160810:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
+- 16:08:10.062 DEBUG: OnBrowserCreated()
+- 16:08:10.702 INFO: GET 200 /css/font-awesome.min.css
+- 16:08:10.733 INFO: GET 200 /css/jquery-3.2.1.js
+- 16:08:10.374 DEBUG: OnContextCreated()
+- 16:08:10.780 INFO: GET 200 /
+- 16:08:10.858 INFO: GET 200 /style.css
+- 16:08:10.936 INFO: GET 200 /fonts/fontawesome-webfont.woff2?v=4.7.0
+- 16:08:10.951 INFO: GET 200 /do.ttf
+- 16:08:10.045 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52856/
+- 16:08:11.184 INFO: GET 200 /time.php
+- 16:08:11.231 INFO: GET 200 /digital-7.ttf
+- 16:08:12.167 INFO: GET 200 /time.php
+- 16:08:13.181 INFO: GET 200 /time.php
+- 16:08:14.148 INFO: GET 200 /time.php
+- 16:08:15.146 INFO: GET 200 /time.php
+- 16:08:16.817 DEBUG: WM_DESTROY
+- 16:08:16.817 DEBUG: RemoveBrowserWindow(): hwnd = 459670
+- 16:08:16.817 INFO: Stopping Mongoose web server
+- 16:08:16.817 DEBUG: Mongoose webserver stopped immediately
+- 16:08:16.817 DEBUG: OnBeforeClose() hwnd=394154
+- 16:08:16.817 DEBUG: RemoveBrowserWindow(): hwnd = 394154
+- 16:08:16.817 DEBUG: GetBrowserWindow(): not found, hwnd = 394154
+- 16:08:16.817 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:08:16.817 DEBUG: Calling CefQuitMessageLoop()
+- 16:08:16.926 INFO: Ended application
+- 16:08:16.926 INFO: --------------------------------------------------------
+- 16:47:30.000 INFO: --------------------------------------------------------
+- 16:47:30.016 INFO: Started application
+- 16:47:30.016 INFO: Logging to: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 16:47:30.016 INFO: Log level = DEBUG4
+- 16:47:30.016 INFO: Starting Mongoose 3.9c web server
+- 16:47:30.016 INFO: WWW directory: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 16:47:30.016 INFO: Index files: index.html,index.php
+- 16:47:30.016 INFO: CGI interpreter: C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 16:47:30.016 INFO: CGI pattern: **.php$
+- 16:47:30.016 INFO: Hide files patterns: 
+- 16:47:30.016 INFO: CGI environment variables set: TMP=C:\Users\Foplus\AppData\Local\Temp\,TEMP=C:\Users\Foplus\AppData\Local\Temp\,TMPDIR=C:\Users\Foplus\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:47:30.031 INFO: Web server url: http://127.0.0.1:53423/
+- 16:47:30.031 INFO: remote_debugging_port = 60769
+- 16:47:30.031 DEBUG: Command line string for the browser process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=60769
+- 16:47:30.219 DEBUG: App::OnContextInitialized()
+- 16:47:30.219 DEBUG: Window max width/height = 1200/712
+- 16:47:30.219 DEBUG: GetBrowserWindow(): not found, hwnd = 1311966
+- 16:47:30.219 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:47:30.234 WARNING: Setting icon from settings file failed (ICON_BIG)
+- 16:47:30.234 WARNING: Setting icon from settings file failed (ICON_SMALL)
+- 16:47:30.234 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:47:30.234 DEBUG: StoreBrowserWindow(): hwnd = 1311966
+- 16:47:30.000 DEBUG: Command line string for the gpu-process process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="2212.0.27812481\714357302" --no-sandbox --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x27a2 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1930 --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 16:47:30.312 DEBUG: ClientHandler::OnAfterCreated()
+- 16:47:30.312 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:47:31.328 DEBUG: OnLoadingStateChange: loading=1, url=
+[1014/164731:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[1014/164731:ERROR:gl_surface_egl.cc(434)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[1014/164731:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[1014/164731:ERROR:gl_surface_egl.cc(434)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[1014/164731:ERROR:gl_surface_win.cc(170)] GLSurfaceEGL::InitializeOneOff failed.
+[1014/164731:ERROR:gpu_child_thread.cc(243)] Exiting GPU process due to errors during initialization
+- 16:47:31.000 DEBUG: Command line string for the renderer process: "C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\Foplus\Desktop\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --device-scale-factor=1 --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="2212.1.980429989\1218649665" /prefetch:673131151
+[1014/164731:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
+- 16:47:31.093 DEBUG: OnBrowserCreated()
+- 16:47:32.763 DEBUG: OnContextCreated()
+- 16:47:32.169 INFO: GET 200 /
+- 16:47:32.184 INFO: GET 200 /css/font-awesome.min.css
+- 16:47:32.231 INFO: GET 200 /style.css
+- 16:47:33.340 INFO: GET 200 /css/jquery-3.2.1.js
+- 16:47:33.574 INFO: GET 200 /do.ttf
+- 16:47:33.621 INFO: GET 200 /fonts/fontawesome-webfont.woff2?v=4.7.0
+- 16:47:33.699 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:53423/
+- 16:47:34.807 INFO: GET 200 /time.php
+- 16:47:34.853 INFO: GET 200 /digital-7.ttf
+- 16:47:35.727 INFO: GET 200 /time.php
+- 16:47:36.757 INFO: GET 200 /time.php
+- 16:47:37.739 INFO: GET 200 /time.php
+- 16:47:38.707 INFO: GET 200 /time.php
+- 16:47:39.705 INFO: GET 200 /time.php
+- 16:47:40.501 DEBUG: WM_DESTROY
+- 16:47:40.501 DEBUG: RemoveBrowserWindow(): hwnd = 1311966
+- 16:47:40.501 INFO: Stopping Mongoose web server
+- 16:47:40.501 DEBUG: Mongoose webserver stopped immediately
+- 16:47:40.501 DEBUG: OnBeforeClose() hwnd=2622176
+- 16:47:40.501 DEBUG: RemoveBrowserWindow(): hwnd = 2622176
+- 16:47:40.501 DEBUG: GetBrowserWindow(): not found, hwnd = 2622176
+- 16:47:40.501 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:47:40.501 DEBUG: Calling CefQuitMessageLoop()
+- 16:47:40.641 INFO: Ended application
+- 16:47:40.641 INFO: --------------------------------------------------------
+- 19:35:08.062 INFO: --------------------------------------------------------
+- 19:35:08.062 INFO: Started application
+- 19:35:08.062 INFO: Logging to: I:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 19:35:08.062 INFO: Log level = DEBUG4
+- 19:35:08.062 INFO: Starting Mongoose 3.9c web server
+- 19:35:08.062 INFO: WWW directory: I:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 19:35:08.062 INFO: Index files: index.html,index.php
+- 19:35:08.062 INFO: CGI interpreter: I:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 19:35:08.062 INFO: CGI pattern: **.php$
+- 19:35:08.062 INFO: Hide files patterns: 
+- 19:35:08.062 INFO: CGI environment variables set: TMP=C:\Users\suhaib\AppData\Local\Temp\,TEMP=C:\Users\suhaib\AppData\Local\Temp\,TMPDIR=C:\Users\suhaib\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 19:35:08.062 INFO: Web server url: http://127.0.0.1:49847/
+- 19:35:08.078 INFO: remote_debugging_port = 52265
+- 19:35:08.156 DEBUG: Command line string for the browser process: "I:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="I:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=52265
+[1019/193510:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 19:35:11.000 DEBUG: Command line string for the gpu-process process: "I:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="6020.0.999460880\53245211" --no-sandbox --lang=en-US --log-file="I:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --gpu-vendor-id=0x1002 --gpu-device-id=0x6665 --gpu-driver-vendor="Advanced Micro Devices, Inc." --gpu-driver-version=15.201.1101.0 --lang=en-US --log-file="I:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 19:35:11.500 DEBUG: App::OnContextInitialized()
+- 19:35:11.500 DEBUG: Window max width/height = 1286/680
+- 19:35:11.500 DEBUG: GetBrowserWindow(): not found, hwnd = 853196
+- 19:35:11.500 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:35:11.515 WARNING: Setting icon from settings file failed (ICON_BIG)
+- 19:35:11.515 WARNING: Setting icon from settings file failed (ICON_SMALL)
+- 19:35:11.515 DEBUG: BrowserWindow::CreateBrowserControl()
+- 19:35:11.515 DEBUG: StoreBrowserWindow(): hwnd = 853196
+- 19:35:12.781 DEBUG: ClientHandler::OnAfterCreated()
+- 19:35:12.781 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 19:35:12.844 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:35:12.000 DEBUG: Command line string for the renderer process: "I:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="I:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="6020.1.2090113047\2103493210" /prefetch:673131151
+- 19:35:13.875 DEBUG: OnBrowserCreated()
+[1019/193515:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 19:35:18.594 INFO: GET 200 /css/font-awesome.min.css
+- 19:35:18.594 INFO: GET 200 /style.css
+- 19:35:19.031 INFO: GET 200 /
+- 19:35:20.015 INFO: GET 200 /css/jquery-3.2.1.js
+- 19:35:20.187 DEBUG: OnContextCreated()
+- 19:35:20.422 INFO: GET 200 /fonts/fontawesome-webfont.woff2?v=4.7.0
+- 19:35:20.437 INFO: GET 200 /do.ttf
+[1019/193520:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 19:35:21.172 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49847/
+- 19:35:23.844 INFO: GET 200 /time.php
+- 19:35:23.344 INFO: GET 200 /digital-7.ttf
+- 19:35:25.969 INFO: GET 200 /time.php
+- 19:35:25.219 INFO: GET 200 /time.php
+[1019/193525:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 19:35:25.469 INFO: GET 200 /time.php
+- 19:35:26.312 INFO: GET 200 /time.php
+- 19:35:27.312 INFO: GET 200 /time.php
+- 19:35:28.312 INFO: GET 200 /time.php
+- 19:35:29.312 INFO: GET 200 /time.php
+- 19:35:30.312 INFO: GET 200 /time.php
+[1019/193530:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 19:35:31.312 INFO: GET 200 /time.php
+- 19:35:32.312 INFO: GET 200 /time.php
+- 19:35:33.328 INFO: GET 200 /time.php
+- 19:35:34.312 INFO: GET 200 /time.php
+- 19:35:35.312 INFO: GET 200 /time.php
+[1019/193535:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 19:35:36.312 INFO: GET 200 /time.php
+- 19:35:37.312 INFO: GET 200 /time.php
+- 19:35:38.922 DEBUG: WM_DESTROY
+- 19:35:38.922 DEBUG: RemoveBrowserWindow(): hwnd = 853196
+- 19:35:38.922 INFO: Stopping Mongoose web server
+- 19:35:38.922 DEBUG: Mongoose webserver stopped immediately
+- 19:35:38.922 DEBUG: OnBeforeClose() hwnd=853158
+- 19:35:38.922 DEBUG: RemoveBrowserWindow(): hwnd = 853158
+- 19:35:38.922 DEBUG: GetBrowserWindow(): not found, hwnd = 853158
+- 19:35:38.922 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 19:35:38.922 DEBUG: Calling CefQuitMessageLoop()
+- 19:35:38.453 INFO: Ended application
+- 19:35:38.453 INFO: --------------------------------------------------------
+- 05:53:35.360 INFO: --------------------------------------------------------
+- 05:53:35.375 INFO: Started application
+- 05:53:35.375 INFO: Logging to: F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 05:53:35.375 INFO: Log level = DEBUG4
+- 05:53:35.375 INFO: Starting Mongoose 3.9c web server
+- 05:53:35.375 INFO: WWW directory: F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 05:53:35.375 INFO: Index files: index.html,index.php
+- 05:53:35.375 INFO: CGI interpreter: F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 05:53:35.375 INFO: CGI pattern: **.php$
+- 05:53:35.375 INFO: Hide files patterns: 
+- 05:53:35.375 INFO: CGI environment variables set: TMP=C:\Users\suhaib\AppData\Local\Temp\,TEMP=C:\Users\suhaib\AppData\Local\Temp\,TMPDIR=C:\Users\suhaib\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 05:53:35.391 INFO: Web server url: http://127.0.0.1:52228/
+- 05:53:35.391 INFO: remote_debugging_port = 53022
+- 05:53:35.594 DEBUG: Command line string for the browser process: "F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=53022
+[1020/055335:FATAL:icu_util.cc(225)] Check failed: result. 
+Backtrace:
+	cef_time_to_timet [0x648FF197+788039]
+	cef_time_to_timet [0x648CAA21+573137]
+	TerminateProcessWithoutDump [0x66AB17F1+14262193]
+	TerminateProcessWithoutDump [0x660A845F+3738655]
+	cef_string_list_value [0x6480CCF5+38725]
+	cef_string_list_value [0x6480C859+37545]
+	cef_initialize [0x647DEE82+162]
+	(No symbol) [0x01156E1C]
+	(No symbol) [0x0117448E]
+	BaseThreadInitThunk [0x757462C4+36]
+	RtlSubscribeWnfStateChangeNotification [0x772D0FD9+1081]
+	RtlSubscribeWnfStateChangeNotification [0x772D0FA4+1028]
+
+- 05:54:03.000 INFO: --------------------------------------------------------
+- 05:54:03.000 INFO: Started application
+- 05:54:03.000 INFO: Logging to: F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 05:54:03.000 INFO: Log level = DEBUG4
+- 05:54:03.000 INFO: Starting Mongoose 3.9c web server
+- 05:54:03.000 INFO: WWW directory: F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 05:54:03.000 INFO: Index files: index.html,index.php
+- 05:54:03.000 INFO: CGI interpreter: F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 05:54:03.000 INFO: CGI pattern: **.php$
+- 05:54:03.000 INFO: Hide files patterns: 
+- 05:54:03.000 INFO: CGI environment variables set: TMP=C:\Users\suhaib\AppData\Local\Temp\,TEMP=C:\Users\suhaib\AppData\Local\Temp\,TMPDIR=C:\Users\suhaib\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 05:54:03.000 INFO: Web server url: http://127.0.0.1:52229/
+- 05:54:03.016 INFO: remote_debugging_port = 64972
+- 05:54:03.016 DEBUG: Command line string for the browser process: "F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=64972
+[1020/055403:FATAL:icu_util.cc(225)] Check failed: result. 
+Backtrace:
+	cef_time_to_timet [0x6494F197+788039]
+	cef_time_to_timet [0x6491AA21+573137]
+	TerminateProcessWithoutDump [0x66B017F1+14262193]
+	TerminateProcessWithoutDump [0x660F845F+3738655]
+	cef_string_list_value [0x6485CCF5+38725]
+	cef_string_list_value [0x6485C859+37545]
+	cef_initialize [0x6482EE82+162]
+	(No symbol) [0x01156E1C]
+	(No symbol) [0x0117448E]
+	BaseThreadInitThunk [0x757462C4+36]
+	RtlSubscribeWnfStateChangeNotification [0x772D0FD9+1081]
+	RtlSubscribeWnfStateChangeNotification [0x772D0FA4+1028]
+
+- 05:54:27.000 INFO: --------------------------------------------------------
+- 05:54:27.000 INFO: Started application
+- 05:54:27.000 INFO: Logging to: F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 05:54:27.000 INFO: Log level = DEBUG4
+- 05:54:27.000 INFO: Starting Mongoose 3.9c web server
+- 05:54:27.000 INFO: WWW directory: F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 05:54:27.000 INFO: Index files: index.html,index.php
+- 05:54:27.000 INFO: CGI interpreter: F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 05:54:27.000 INFO: CGI pattern: **.php$
+- 05:54:27.000 INFO: Hide files patterns: 
+- 05:54:27.000 INFO: CGI environment variables set: TMP=C:\Users\suhaib\AppData\Local\Temp\,TEMP=C:\Users\suhaib\AppData\Local\Temp\,TMPDIR=C:\Users\suhaib\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 05:54:27.016 INFO: Web server url: http://127.0.0.1:52230/
+- 05:54:27.016 INFO: remote_debugging_port = 56254
+- 05:54:27.016 DEBUG: Command line string for the browser process: "F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=56254
+[1020/055430:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:54:30.000 DEBUG: Command line string for the gpu-process process: "F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="3868.0.112839905\851325933" --no-sandbox --lang=en-US --log-file="F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --gpu-vendor-id=0x1002 --gpu-device-id=0x6665 --gpu-driver-vendor="Advanced Micro Devices, Inc." --gpu-driver-version=15.201.1101.0 --lang=en-US --log-file="F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 05:54:32.219 DEBUG: App::OnContextInitialized()
+- 05:54:32.219 DEBUG: Window max width/height = 1286/680
+- 05:54:32.219 DEBUG: GetBrowserWindow(): not found, hwnd = 197992
+- 05:54:32.219 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 05:54:32.219 WARNING: Setting icon from settings file failed (ICON_BIG)
+- 05:54:32.219 WARNING: Setting icon from settings file failed (ICON_SMALL)
+- 05:54:32.219 DEBUG: BrowserWindow::CreateBrowserControl()
+- 05:54:32.219 DEBUG: StoreBrowserWindow(): hwnd = 197992
+- 05:54:33.172 DEBUG: ClientHandler::OnAfterCreated()
+- 05:54:33.172 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 05:54:33.000 DEBUG: Command line string for the renderer process: "F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="3868.1.1682759744\1002252016" /prefetch:673131151
+- 05:54:33.375 DEBUG: OnLoadingStateChange: loading=1, url=
+[1020/055435:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:54:35.719 DEBUG: OnBrowserCreated()
+[1020/055440:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:54:40.266 INFO: GET 200 /
+- 05:54:40.407 INFO: GET 200 /style.css
+- 05:54:40.407 INFO: GET 200 /css/font-awesome.min.css
+- 05:54:40.594 INFO: GET 200 /css/jquery-3.2.1.js
+- 05:54:40.375 DEBUG: OnContextCreated()
+- 05:54:41.453 INFO: GET 200 /fonts/fontawesome-webfont.woff2?v=4.7.0
+- 05:54:41.485 INFO: GET 200 /do.ttf
+- 05:54:42.578 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52230/
+- 05:54:43.532 INFO: GET 200 /time.php
+- 05:54:43.625 INFO: GET 200 /digital-7.ttf
+- 05:54:44.360 INFO: GET 200 /time.php
+[1020/055445:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:54:45.375 INFO: GET 200 /time.php
+- 05:54:46.422 INFO: GET 200 /time.php
+- 05:54:47.360 INFO: GET 200 /time.php
+- 05:54:48.360 INFO: GET 200 /time.php
+- 05:54:49.360 INFO: GET 200 /time.php
+[1020/055450:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:54:50.360 INFO: GET 200 /time.php
+- 05:54:51.360 INFO: GET 200 /time.php
+- 05:54:52.391 INFO: GET 200 /time.php
+- 05:54:53.375 INFO: GET 200 /time.php
+- 05:54:54.375 INFO: GET 200 /time.php
+[1020/055455:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:54:55.375 INFO: GET 200 /time.php
+- 05:54:56.407 INFO: GET 200 /time.php
+- 05:54:57.360 INFO: GET 200 /time.php
+- 05:54:58.375 INFO: GET 200 /time.php
+- 05:54:59.375 INFO: GET 200 /time.php
+[1020/055500:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:55:00.657 INFO: GET 200 /time.php
+- 05:55:01.391 INFO: GET 200 /time.php
+- 05:55:02.375 INFO: GET 200 /time.php
+- 05:55:03.360 INFO: GET 200 /time.php
+- 05:55:04.360 INFO: GET 200 /time.php
+[1020/055505:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:55:05.375 INFO: GET 200 /time.php
+- 05:55:06.360 INFO: GET 200 /time.php
+- 05:55:07.360 INFO: GET 200 /time.php
+- 05:55:08.360 INFO: GET 200 /time.php
+- 05:55:09.360 INFO: GET 200 /time.php
+[1020/055510:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:55:10.375 INFO: GET 200 /time.php
+- 05:55:11.500 INFO: GET 200 /time.php
+- 05:55:12.407 INFO: GET 200 /time.php
+- 05:55:13.360 INFO: GET 200 /time.php
+- 05:55:14.360 INFO: GET 200 /time.php
+[1020/055515:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:55:15.375 INFO: GET 200 /time.php
+- 05:55:16.360 INFO: GET 200 /time.php
+- 05:55:17.360 INFO: GET 200 /time.php
+- 05:55:18.360 INFO: GET 200 /time.php
+- 05:55:19.360 INFO: GET 200 /time.php
+[1020/055520:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:55:20.375 INFO: GET 200 /time.php
+- 05:55:21.391 INFO: GET 200 /time.php
+- 05:55:22.375 INFO: GET 200 /time.php
+- 05:55:23.375 INFO: GET 200 /time.php
+- 05:55:24.375 INFO: GET 200 /time.php
+[1020/055525:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:55:25.375 INFO: GET 200 /time.php
+- 05:55:26.375 INFO: GET 200 /time.php
+- 05:55:27.375 INFO: GET 200 /time.php
+- 05:55:28.391 INFO: GET 200 /time.php
+- 05:55:29.766 INFO: GET 200 /time.php
+[1020/055530:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:55:30.391 INFO: GET 200 /time.php
+- 05:55:31.625 INFO: GET 200 /time.php
+- 05:55:32.641 INFO: GET 200 /time.php
+- 05:55:33.516 INFO: GET 200 /time.php
+- 05:55:34.313 INFO: GET 200 /time.php
+[1020/055535:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:55:35.407 INFO: GET 200 /time.php
+- 05:55:36.422 INFO: GET 200 /time.php
+- 05:55:37.438 INFO: GET 200 /time.php
+- 05:55:38.375 INFO: GET 200 /time.php
+- 05:55:39.375 INFO: GET 200 /time.php
+[1020/055540:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:55:40.407 INFO: GET 200 /time.php
+- 05:55:41.391 INFO: GET 200 /time.php
+- 05:55:42.516 INFO: GET 200 /time.php
+- 05:55:43.407 INFO: GET 200 /time.php
+- 05:55:44.360 INFO: GET 200 /time.php
+[1020/055545:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:55:45.391 INFO: GET 200 /time.php
+- 05:55:46.360 INFO: GET 200 /time.php
+- 05:55:47.360 INFO: GET 200 /time.php
+- 05:55:48.438 INFO: GET 200 /time.php
+- 05:55:49.391 INFO: GET 200 /time.php
+[1020/055550:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:55:50.407 INFO: GET 200 /time.php
+- 05:55:51.391 INFO: GET 200 /time.php
+- 05:55:52.391 INFO: GET 200 /time.php
+- 05:55:53.391 INFO: GET 200 /time.php
+- 05:55:54.563 INFO: GET 200 /time.php
+[1020/055555:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:55:55.422 INFO: GET 200 /time.php
+- 05:55:56.422 INFO: GET 200 /time.php
+- 05:55:57.375 INFO: GET 200 /time.php
+- 05:55:58.375 INFO: GET 200 /time.php
+- 05:55:59.375 INFO: GET 200 /time.php
+- 05:56:00.375 INFO: GET 200 /time.php
+[1020/055600:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:56:01.375 INFO: GET 200 /time.php
+- 05:56:02.375 INFO: GET 200 /time.php
+- 05:56:03.375 INFO: GET 200 /time.php
+- 05:56:04.375 INFO: GET 200 /time.php
+- 05:56:05.375 INFO: GET 200 /time.php
+[1020/055605:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:56:06.391 INFO: GET 200 /time.php
+- 05:56:07.391 INFO: GET 200 /time.php
+- 05:56:08.391 INFO: GET 200 /time.php
+- 05:56:09.500 INFO: GET 200 /time.php
+- 05:56:10.360 INFO: GET 200 /time.php
+[1020/055610:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:56:11.375 INFO: GET 200 /time.php
+- 05:56:12.375 INFO: GET 200 /time.php
+- 05:56:13.360 INFO: GET 200 /time.php
+- 05:56:14.375 INFO: GET 200 /time.php
+- 05:56:15.391 INFO: GET 200 /time.php
+[1020/055615:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:56:16.407 INFO: GET 200 /time.php
+- 05:56:17.360 INFO: GET 200 /time.php
+- 05:56:18.360 INFO: GET 200 /time.php
+- 05:56:19.360 INFO: GET 200 /time.php
+- 05:56:20.391 INFO: GET 200 /time.php
+[1020/055620:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:56:21.891 INFO: GET 200 /time.php
+- 05:56:22.875 INFO: GET 200 /time.php
+- 05:56:23.875 INFO: GET 200 /time.php
+- 05:56:24.875 INFO: GET 200 /time.php
+[1020/055625:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:56:25.891 INFO: GET 200 /time.php
+- 05:56:26.875 INFO: GET 200 /time.php
+- 05:56:27.875 INFO: GET 200 /time.php
+- 05:56:28.875 INFO: GET 200 /time.php
+- 05:56:29.875 INFO: GET 200 /time.php
+[1020/055630:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:56:30.922 INFO: GET 200 /time.php
+- 05:56:31.860 INFO: GET 200 /time.php
+- 05:56:32.875 INFO: GET 200 /time.php
+- 05:56:33.922 INFO: GET 200 /time.php
+- 05:56:34.875 INFO: GET 200 /time.php
+[1020/055635:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:56:35.875 INFO: GET 200 /time.php
+- 05:56:36.875 INFO: GET 200 /time.php
+- 05:56:37.938 INFO: GET 200 /time.php
+- 05:56:38.875 INFO: GET 200 /time.php
+- 05:56:39.875 INFO: GET 200 /time.php
+[1020/055640:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:56:40.875 INFO: GET 200 /time.php
+- 05:56:41.875 INFO: GET 200 /time.php
+- 05:56:42.875 INFO: GET 200 /time.php
+- 05:56:44.235 INFO: GET 200 /time.php
+- 05:56:44.875 INFO: GET 200 /time.php
+[1020/055645:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:56:45.875 INFO: GET 200 /time.php
+- 05:56:46.875 INFO: GET 200 /time.php
+- 05:56:47.875 INFO: GET 200 /time.php
+- 05:56:48.875 INFO: GET 200 /time.php
+- 05:56:49.875 INFO: GET 200 /time.php
+[1020/055650:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:56:50.875 INFO: GET 200 /time.php
+- 05:56:51.875 INFO: GET 200 /time.php
+- 05:56:52.891 INFO: GET 200 /time.php
+- 05:56:53.875 INFO: GET 200 /time.php
+- 05:56:54.891 INFO: GET 200 /time.php
+[1020/055655:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:56:55.891 INFO: GET 200 /time.php
+- 05:56:56.875 INFO: GET 200 /time.php
+- 05:56:57.875 INFO: GET 200 /time.php
+- 05:56:58.875 INFO: GET 200 /time.php
+- 05:56:59.875 INFO: GET 200 /time.php
+[1020/055700:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:57:00.875 INFO: GET 200 /time.php
+- 05:57:01.875 INFO: GET 200 /time.php
+- 05:57:02.875 INFO: GET 200 /time.php
+- 05:57:03.875 INFO: GET 200 /time.php
+- 05:57:04.907 INFO: GET 200 /time.php
+[1020/055705:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:57:05.875 INFO: GET 200 /time.php
+- 05:57:06.875 INFO: GET 200 /time.php
+- 05:57:07.875 INFO: GET 200 /time.php
+- 05:57:08.875 INFO: GET 200 /time.php
+- 05:57:09.860 INFO: GET 200 /time.php
+[1020/055710:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:57:10.875 INFO: GET 200 /time.php
+- 05:57:11.875 INFO: GET 200 /time.php
+- 05:57:12.875 INFO: GET 200 /time.php
+- 05:57:13.875 INFO: GET 200 /time.php
+- 05:57:14.875 INFO: GET 200 /time.php
+[1020/055715:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:57:15.875 INFO: GET 200 /time.php
+- 05:57:16.875 INFO: GET 200 /time.php
+- 05:57:17.875 INFO: GET 200 /time.php
+- 05:57:18.875 INFO: GET 200 /time.php
+- 05:57:19.875 INFO: GET 200 /time.php
+[1020/055720:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:57:20.875 INFO: GET 200 /time.php
+- 05:57:21.875 INFO: GET 200 /time.php
+- 05:57:22.875 INFO: GET 200 /time.php
+- 05:57:23.875 INFO: GET 200 /time.php
+- 05:57:24.875 INFO: GET 200 /time.php
+[1020/055725:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:57:25.875 INFO: GET 200 /time.php
+- 05:57:26.875 INFO: GET 200 /time.php
+- 05:57:27.875 INFO: GET 200 /time.php
+- 05:57:28.875 INFO: GET 200 /time.php
+- 05:57:29.875 INFO: GET 200 /time.php
+[1020/055730:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:57:30.875 INFO: GET 200 /time.php
+- 05:57:31.907 INFO: GET 200 /time.php
+- 05:57:32.891 INFO: GET 200 /time.php
+- 05:57:33.891 INFO: GET 200 /time.php
+- 05:57:34.875 INFO: GET 200 /time.php
+[1020/055735:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:57:35.875 INFO: GET 200 /time.php
+- 05:57:36.891 INFO: GET 200 /time.php
+- 05:57:37.922 INFO: GET 200 /time.php
+- 05:57:38.047 INFO: GET 200 /time.php
+- 05:57:39.891 INFO: GET 200 /time.php
+[1020/055740:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:57:40.891 INFO: GET 200 /time.php
+- 05:57:41.875 INFO: GET 200 /time.php
+- 05:57:42.875 INFO: GET 200 /time.php
+- 05:57:43.891 INFO: GET 200 /time.php
+- 05:57:44.875 INFO: GET 200 /time.php
+[1020/055745:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:57:45.860 INFO: GET 200 /time.php
+- 05:57:46.875 INFO: GET 200 /time.php
+- 05:57:47.875 INFO: GET 200 /time.php
+- 05:57:48.907 INFO: GET 200 /time.php
+- 05:57:49.875 INFO: GET 200 /time.php
+[1020/055750:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:57:50.875 INFO: GET 200 /time.php
+- 05:57:51.891 INFO: GET 200 /time.php
+- 05:57:52.875 INFO: GET 200 /time.php
+- 05:57:53.875 INFO: GET 200 /time.php
+- 05:57:54.891 INFO: GET 200 /time.php
+[1020/055755:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:57:55.891 INFO: GET 200 /time.php
+- 05:57:56.891 INFO: GET 200 /time.php
+- 05:57:57.875 INFO: GET 200 /time.php
+- 05:57:58.875 INFO: GET 200 /time.php
+- 05:57:59.875 INFO: GET 200 /time.php
+[1020/055800:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:58:00.875 INFO: GET 200 /time.php
+- 05:58:01.875 INFO: GET 200 /time.php
+- 05:58:02.875 INFO: GET 200 /time.php
+- 05:58:03.875 INFO: GET 200 /time.php
+- 05:58:04.875 INFO: GET 200 /time.php
+[1020/055805:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:58:05.875 INFO: GET 200 /time.php
+- 05:58:06.875 INFO: GET 200 /time.php
+- 05:58:07.875 INFO: GET 200 /time.php
+- 05:58:08.875 INFO: GET 200 /time.php
+- 05:58:09.875 INFO: GET 200 /time.php
+[1020/055810:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:58:10.907 INFO: GET 200 /time.php
+- 05:58:11.891 INFO: GET 200 /time.php
+- 05:58:12.875 INFO: GET 200 /time.php
+- 05:58:13.875 INFO: GET 200 /time.php
+- 05:58:14.875 INFO: GET 200 /time.php
+[1020/055815:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:58:15.953 INFO: GET 200 /time.php
+- 05:58:16.875 INFO: GET 200 /time.php
+- 05:58:17.875 INFO: GET 200 /time.php
+- 05:58:18.875 INFO: GET 200 /time.php
+- 05:58:19.875 INFO: GET 200 /time.php
+[1020/055820:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:58:20.875 INFO: GET 200 /time.php
+- 05:58:21.891 INFO: GET 200 /time.php
+- 05:58:22.891 INFO: GET 200 /time.php
+- 05:58:23.875 INFO: GET 200 /time.php
+- 05:58:24.875 INFO: GET 200 /time.php
+[1020/055825:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:58:25.875 INFO: GET 200 /time.php
+- 05:58:26.922 INFO: GET 200 /time.php
+- 05:58:27.922 INFO: GET 200 /time.php
+- 05:58:28.875 INFO: GET 200 /time.php
+- 05:58:29.875 INFO: GET 200 /time.php
+[1020/055830:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:58:30.875 INFO: GET 200 /time.php
+- 05:58:31.875 INFO: GET 200 /time.php
+- 05:58:32.875 INFO: GET 200 /time.php
+- 05:58:33.360 INFO: GET 200 /time.php
+- 05:58:34.375 INFO: GET 200 /time.php
+- 05:58:35.360 INFO: GET 200 /time.php
+- 05:58:35.422 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52230/
+[1020/055835:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:58:35.641 INFO: GET 200 /
+- 05:58:35.313 DEBUG: OnContextCreated()
+- 05:58:35.672 INFO: GET 200 /style.css
+- 05:58:35.672 INFO: GET 200 /css/font-awesome.min.css
+- 05:58:35.672 INFO: GET 200 /css/jquery-3.2.1.js
+- 05:58:35.860 INFO: GET 200 /fonts/fontawesome-webfont.woff2?v=4.7.0
+- 05:58:35.860 INFO: GET 200 /do.ttf
+- 05:58:35.000 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52230/
+- 05:58:36.078 INFO: GET 200 /time.php
+- 05:58:36.094 INFO: GET 200 /digital-7.ttf
+- 05:58:37.063 INFO: GET 200 /time.php
+- 05:58:38.063 INFO: GET 200 /time.php
+- 05:58:39.063 INFO: GET 200 /time.php
+[1020/055840:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:58:40.078 INFO: GET 200 /time.php
+- 05:58:41.063 INFO: GET 200 /time.php
+- 05:58:42.063 INFO: GET 200 /time.php
+- 05:58:43.063 INFO: GET 200 /time.php
+- 05:58:44.063 INFO: GET 200 /time.php
+[1020/055845:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:58:45.063 INFO: GET 200 /time.php
+- 05:58:46.063 INFO: GET 200 /time.php
+- 05:58:47.063 INFO: GET 200 /time.php
+- 05:58:48.063 INFO: GET 200 /time.php
+- 05:58:48.141 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52230/
+- 05:58:49.360 INFO: GET 302 /valstr0.php?
+- 05:58:49.172 DEBUG: OnContextCreated()
+- 05:58:49.516 INFO: GET 200 /index.php
+- 05:58:49.657 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52230/index.php
+[1020/055850:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:58:50.813 INFO: GET 200 /time.php
+- 05:58:51.797 INFO: GET 200 /time.php
+- 05:58:52.797 INFO: GET 200 /time.php
+- 05:58:53.813 INFO: GET 200 /time.php
+- 05:58:54.735 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52230/index.php
+- 05:58:54.813 INFO: GET 200 /time.php
+- 05:58:54.922 INFO: GET 302 /valstp0.php?
+- 05:58:54.750 DEBUG: OnContextCreated()
+- 05:58:54.094 INFO: GET 200 /index.php
+- 05:58:55.313 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52230/index.php
+[1020/055855:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:58:56.469 INFO: GET 200 /time.php
+- 05:58:57.453 INFO: GET 200 /time.php
+- 05:58:58.453 INFO: GET 200 /time.php
+- 05:58:59.485 INFO: GET 200 /time.php
+- 05:59:00.453 INFO: GET 200 /time.php
+[1020/055900:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:59:01.469 INFO: GET 200 /time.php
+- 05:59:02.469 INFO: GET 200 /time.php
+- 05:59:03.453 INFO: GET 200 /time.php
+- 05:59:04.453 INFO: GET 200 /time.php
+- 05:59:05.469 INFO: GET 200 /time.php
+[1020/055905:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:59:06.469 INFO: GET 200 /time.php
+- 05:59:07.485 INFO: GET 200 /time.php
+- 05:59:08.453 INFO: GET 200 /time.php
+- 05:59:09.453 INFO: GET 200 /time.php
+- 05:59:10.453 INFO: GET 200 /time.php
+[1020/055910:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:59:11.453 INFO: GET 200 /time.php
+- 05:59:12.469 INFO: GET 200 /time.php
+- 05:59:13.453 INFO: GET 200 /time.php
+- 05:59:14.453 INFO: GET 200 /time.php
+- 05:59:14.735 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52230/index.php
+- 05:59:14.907 INFO: GET 302 /dlt0.php?
+- 05:59:14.719 DEBUG: OnContextCreated()
+- 05:59:14.063 INFO: GET 200 /index.php
+- 05:59:14.125 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52230/index.php
+[1020/055915:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:59:16.282 INFO: GET 200 /time.php
+- 05:59:17.266 INFO: GET 200 /time.php
+- 05:59:18.266 INFO: GET 200 /time.php
+- 05:59:19.266 INFO: GET 200 /time.php
+- 05:59:20.266 INFO: GET 200 /time.php
+[1020/055920:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:59:21.266 INFO: GET 200 /time.php
+- 05:59:22.266 INFO: GET 200 /time.php
+- 05:59:22.750 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52230/index.php
+- 05:59:22.907 INFO: GET 302 /dlt1.php?
+- 05:59:22.719 DEBUG: OnContextCreated()
+- 05:59:22.063 INFO: GET 200 /index.php
+- 05:59:22.125 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52230/index.php
+- 05:59:24.282 INFO: GET 200 /time.php
+- 05:59:25.266 INFO: GET 200 /time.php
+[1020/055925:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 05:59:26.266 INFO: GET 200 /time.php
+- 05:59:26.532 DEBUG: WM_DESTROY
+- 05:59:26.532 DEBUG: RemoveBrowserWindow(): hwnd = 197992
+- 05:59:26.532 INFO: Stopping Mongoose web server
+- 05:59:26.532 DEBUG: Mongoose webserver stopped immediately
+- 05:59:26.547 DEBUG: OnBeforeClose() hwnd=328910
+- 05:59:26.547 DEBUG: RemoveBrowserWindow(): hwnd = 328910
+- 05:59:26.547 DEBUG: GetBrowserWindow(): not found, hwnd = 328910
+- 05:59:26.547 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 05:59:26.547 DEBUG: Calling CefQuitMessageLoop()
+- 05:59:26.250 DEBUG: OnBrowserDestroyed()
+- 05:59:26.672 INFO: Ended application
+- 05:59:26.672 INFO: --------------------------------------------------------
+- 06:00:43.000 INFO: --------------------------------------------------------
+- 06:00:43.000 INFO: Started application
+- 06:00:43.000 INFO: Logging to: F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 06:00:43.000 INFO: Log level = DEBUG4
+- 06:00:43.000 INFO: Starting Mongoose 3.9c web server
+- 06:00:43.000 INFO: WWW directory: F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 06:00:43.000 INFO: Index files: index.html,index.php
+- 06:00:43.000 INFO: CGI interpreter: F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 06:00:43.000 INFO: CGI pattern: **.php$
+- 06:00:43.000 INFO: Hide files patterns: 
+- 06:00:43.000 INFO: CGI environment variables set: TMP=C:\Users\suhaib\AppData\Local\Temp\,TEMP=C:\Users\suhaib\AppData\Local\Temp\,TMPDIR=C:\Users\suhaib\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 06:00:43.016 INFO: Web server url: http://127.0.0.1:52579/
+- 06:00:43.016 INFO: remote_debugging_port = 49212
+- 06:00:43.016 DEBUG: Command line string for the browser process: "F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=49212
+[1020/060043:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 06:00:43.125 DEBUG: App::OnContextInitialized()
+- 06:00:43.125 DEBUG: Window max width/height = 1286/680
+- 06:00:43.125 DEBUG: GetBrowserWindow(): not found, hwnd = 263258
+- 06:00:43.125 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 06:00:43.125 WARNING: Setting icon from settings file failed (ICON_BIG)
+- 06:00:43.141 WARNING: Setting icon from settings file failed (ICON_SMALL)
+- 06:00:43.141 DEBUG: BrowserWindow::CreateBrowserControl()
+- 06:00:43.141 DEBUG: StoreBrowserWindow(): hwnd = 263258
+- 06:00:44.000 DEBUG: Command line string for the gpu-process process: "F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="7476.0.143846472\1484694419" --no-sandbox --lang=en-US --log-file="F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --gpu-vendor-id=0x1002 --gpu-device-id=0x6665 --gpu-driver-vendor="Advanced Micro Devices, Inc." --gpu-driver-version=15.201.1101.0 --lang=en-US --log-file="F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 06:00:44.203 DEBUG: ClientHandler::OnAfterCreated()
+- 06:00:44.203 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 06:00:44.235 DEBUG: OnLoadingStateChange: loading=1, url=
+- 06:00:44.000 DEBUG: Command line string for the renderer process: "F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="F:\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="7476.1.2016894253\2027834110" /prefetch:673131151
+- 06:00:44.093 DEBUG: OnBrowserCreated()
+- 06:00:44.703 INFO: GET 200 /css/font-awesome.min.css
+- 06:00:44.703 INFO: GET 200 /style.css
+- 06:00:44.703 INFO: GET 200 /css/jquery-3.2.1.js
+- 06:00:44.719 INFO: GET 200 /
+- 06:00:44.453 DEBUG: OnContextCreated()
+- 06:00:44.938 INFO: GET 200 /do.ttf
+- 06:00:44.938 INFO: GET 200 /fonts/fontawesome-webfont.woff2?v=4.7.0
+- 06:00:44.094 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52579/
+- 06:00:45.141 INFO: GET 200 /time.php
+- 06:00:46.172 INFO: GET 200 /digital-7.ttf
+- 06:00:46.125 INFO: GET 200 /time.php
+- 06:00:47.141 INFO: GET 200 /time.php
+- 06:00:48.578 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:52579/
+- 06:00:48.735 INFO: GET 302 /valstr0.php?
+- 06:00:48.625 DEBUG: OnContextCreated()
+- 06:00:48.907 INFO: GET 200 /index.php
+- 06:00:48.032 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:52579/index.php
+[1020/060048:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 06:00:50.203 INFO: GET 200 /time.php
+- 06:00:51.188 INFO: GET 200 /time.php
+- 06:00:52.188 INFO: GET 200 /time.php
+- 06:00:53.172 INFO: GET 200 /time.php
+[1020/060053:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 06:00:54.172 INFO: GET 200 /time.php
+- 06:00:55.188 INFO: GET 200 /time.php
+- 06:00:56.188 INFO: GET 200 /time.php
+- 06:00:57.172 INFO: GET 200 /time.php
+- 06:00:58.172 INFO: GET 200 /time.php
+[1020/060058:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 06:00:59.188 INFO: GET 200 /time.php
+- 06:01:00.188 INFO: GET 200 /time.php
+- 06:01:01.188 INFO: GET 200 /time.php
+- 06:01:02.188 INFO: GET 200 /time.php
+- 06:01:03.188 INFO: GET 200 /time.php
+[1020/060103:WARNING:dns_config_service_win.cc(673)] Failed to read DnsConfig.
+- 06:01:04.172 INFO: GET 200 /time.php
+- 06:01:05.172 INFO: GET 200 /time.php
+- 06:01:05.266 DEBUG: WM_DESTROY
+- 06:01:05.266 DEBUG: RemoveBrowserWindow(): hwnd = 263258
+- 06:01:05.266 INFO: Stopping Mongoose web server
+- 06:01:05.266 DEBUG: Mongoose webserver stopped immediately
+- 06:01:05.266 DEBUG: OnBeforeClose() hwnd=5571874
+- 06:01:05.266 DEBUG: RemoveBrowserWindow(): hwnd = 5571874
+- 06:01:05.266 DEBUG: GetBrowserWindow(): not found, hwnd = 5571874
+- 06:01:05.266 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 06:01:05.266 DEBUG: Calling CefQuitMessageLoop()
+- 06:01:05.344 INFO: Ended application
+- 06:01:05.344 INFO: --------------------------------------------------------
+- 13:58:10.109 INFO: --------------------------------------------------------
+- 13:58:10.125 INFO: Started application
+- 13:58:10.125 INFO: Logging to: E:\Foplus\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log
+- 13:58:10.125 INFO: Log level = DEBUG4
+- 13:58:10.125 INFO: Starting Mongoose 3.9c web server
+- 13:58:10.125 INFO: WWW directory: E:\Foplus\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\www
+- 13:58:10.125 INFO: Index files: index.html,index.php
+- 13:58:10.125 INFO: CGI interpreter: E:\Foplus\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\php\php-cgi.exe
+- 13:58:10.125 INFO: CGI pattern: **.php$
+- 13:58:10.125 INFO: Hide files patterns: 
+- 13:58:10.125 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\SUHAIL~1\AppData\Local\Temp\
+- 13:58:10.140 INFO: CGI environment variables set: TMP=C:\WINDOWS\Temp,TEMP=C:\WINDOWS\Temp,TMPDIR=C:\WINDOWS\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 13:58:10.156 INFO: Web server url: http://127.0.0.1:62591/
+- 13:58:10.156 INFO: remote_debugging_port = 56543
+- 13:58:10.422 DEBUG: Command line string for the browser process: "E:\Foplus\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="E:\Foplus\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --remote-debugging-port=56543
+- 13:58:13.016 DEBUG: Command line string for the gpu-process process: "E:\Foplus\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="6336.0.2001730867\412993257" --no-sandbox --lang=en-US --log-file="E:\Foplus\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --gpu-vendor-id=0x1002 --gpu-device-id=0x6665 --gpu-driver-vendor="Advanced Micro Devices, Inc." --gpu-driver-version=23.20.15002.11 --lang=en-US --log-file="E:\Foplus\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" /prefetch:822062411
+- 13:58:14.015 DEBUG: App::OnContextInitialized()
+- 13:58:14.015 DEBUG: Window max width/height = 1286/680
+- 13:58:14.015 DEBUG: GetBrowserWindow(): not found, hwnd = 918986
+- 13:58:14.015 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 13:58:14.047 WARNING: Setting icon from settings file failed (ICON_BIG)
+- 13:58:14.047 WARNING: Setting icon from settings file failed (ICON_SMALL)
+- 13:58:14.047 DEBUG: BrowserWindow::CreateBrowserControl()
+- 13:58:14.047 DEBUG: StoreBrowserWindow(): hwnd = 918986
+- 13:58:16.625 DEBUG: ClientHandler::OnAfterCreated()
+- 13:58:16.625 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 13:58:16.000 DEBUG: Command line string for the renderer process: "E:\Foplus\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="E:\Foplus\Backup\phpdesktop-chrome-47.5-rc-php-5.4.33\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="6336.1.151352641\1743716841" /prefetch:673131151
+- 13:58:17.187 DEBUG: OnLoadingStateChange: loading=1, url=
+- 13:58:21.672 DEBUG: OnBrowserCreated()
+- 13:58:27.765 INFO: GET 200 /
+- 13:58:27.890 INFO: GET 200 /style.css
+- 13:58:27.937 INFO: GET 200 /css/font-awesome.min.css
+- 13:58:28.250 INFO: GET 200 /css/jquery-3.2.1.js
+- 13:58:28.343 DEBUG: OnContextCreated()
+- 13:58:29.265 INFO: GET 200 /do.ttf
+- 13:58:29.328 INFO: GET 200 /fonts/fontawesome-webfont.woff2?v=4.7.0
+- 13:58:30.390 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:62591/
+- 13:58:31.359 INFO: GET 200 /time.php
+- 13:58:31.453 INFO: GET 200 /digital-7.ttf
+- 13:58:32.125 INFO: GET 200 /time.php
+- 13:58:33.140 INFO: GET 200 /time.php
+- 13:58:34.140 INFO: GET 200 /time.php
+- 13:58:35.140 INFO: GET 200 /time.php
+- 13:58:36.140 INFO: GET 200 /time.php
+- 13:58:37.109 INFO: GET 200 /time.php
+- 13:58:38.093 INFO: GET 200 /time.php
+- 13:58:39.140 INFO: GET 200 /time.php
+- 13:58:40.109 INFO: GET 200 /time.php
+- 13:58:41.125 INFO: GET 200 /time.php
+- 13:58:42.140 INFO: GET 200 /time.php
+- 13:58:43.125 INFO: GET 200 /time.php
+- 13:58:44.140 INFO: GET 200 /time.php
+- 13:58:45.140 INFO: GET 200 /time.php
+- 13:58:46.140 INFO: GET 200 /time.php
+- 13:58:47.140 INFO: GET 200 /time.php
+- 13:58:48.140 INFO: GET 200 /time.php
+- 13:58:49.156 INFO: GET 200 /time.php
+- 13:58:49.484 DEBUG: WM_DESTROY
+- 13:58:49.484 DEBUG: RemoveBrowserWindow(): hwnd = 918986
+- 13:58:49.484 INFO: Stopping Mongoose web server
+- 13:58:49.484 DEBUG: Mongoose webserver stopped immediately
+- 13:58:49.484 DEBUG: OnBeforeClose() hwnd=722344
+- 13:58:49.484 DEBUG: RemoveBrowserWindow(): hwnd = 722344
+- 13:58:49.484 DEBUG: GetBrowserWindow(): not found, hwnd = 722344
+- 13:58:49.484 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 13:58:49.484 DEBUG: Calling CefQuitMessageLoop()
+- 13:58:49.578 DEBUG: OnBrowserDestroyed()
+- 13:58:49.687 INFO: Ended application
+- 13:58:49.687 INFO: --------------------------------------------------------

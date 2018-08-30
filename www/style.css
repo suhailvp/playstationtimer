@@ -1,0 +1,101 @@
+body,html{
+	margin:0;
+	padding: 0;
+}
+@font-face{
+	font-family: clock;
+	src:url(digital-7.ttf);
+}
+@font-face{
+	font-family: deen;
+	src:url(do.ttf);
+}
+.stoper{
+	font-family: clock;
+	margin-top:0px ;
+	color: #d9dce0;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-weight: 700px;
+	font-size: 50px;
+	
+}
+form{
+	margin-top: 10px;
+	display: inline;
+}
+
+table {
+	width:70% !important;
+	text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+    position: fixed ;
+    top:300px;
+    left:15%;
+  
+
+
+}
+
+th, td {
+    padding: 15px 19px;
+    border: 1px solid #ddd;
+    color:black;
+    font-weight: bold;
+
+}
+
+
+h1{
+	font-family: deen;
+	margin-top: 120px;
+	margin-bottom:0px;
+	font-size: 70px;
+}
+h5{
+	font-family: deen;
+	margin-top: -16px;
+	margin-bottom: 5px;
+	font-size: 20px;
+
+}
+button{
+	margin-left: 5px;
+	border: none;
+    color: black;
+    padding: 1px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.gr:hover{
+	background-color: green;
+}
+
+.rd:hover{
+	background-color: red;
+}
+
+.out:hover{
+	background-color: blue;
+}
+
+
+.foot{
+	 position: fixed ;
+     bottom: 10px;
+     left: 0;
+     right: 0; 
+     text-align: center !important;
+     color: black;
+     font-weight: 700px;
+}
+a{
+	margin-top:5px;
+	text-decoration: none;
+	color:black;
+}
